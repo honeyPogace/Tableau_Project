@@ -14,6 +14,9 @@ This Tableau project showcases how Tableau can transform raw data into actionabl
 
 <h2>Program walk-through:</h2>
 
+![Tableau1](https://github.com/honeyPogace/Tableau_Project/assets/163610456/fc238f96-a39b-4c4a-88e0-437e5928f2cc)
+
+
 <p align="center">
 <h3>Movie Information</h3><br/>
  
