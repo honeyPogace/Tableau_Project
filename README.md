@@ -1,7 +1,9 @@
 <h1>Data Vizualization using Tableau</h1>
 
 <h2>Kaggle Dataset</h2>
-- Upload Kaggle dataset here
+
+[Netflix Dataset From Kaggle](https://github.com/honeyPogace/Tableau_Project/blob/main/netflix1.csv)
+
 
 <h2>Tableau Public</h2>
 https://public.tableau.com/app/profile/xhulio.pogace/viz/MovieData_17115641089740/Dashboard1
